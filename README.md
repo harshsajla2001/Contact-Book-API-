@@ -179,7 +179,7 @@ response(deleted contact): {
 ## Installation
 
 ```bash
-Clone the repository: `git clone [https://github.com/harshsajla2001/Contact-Book-API-.git](https://github.com/harshsajla2001/Contact-Book-API-.git)`
+Clone the repository: `https://github.com/harshsajla2001/Contact-Book-API-.git`
 Navigate to the project directory: `cd Contact-Book-API-`
 Install dependencies: `npm install`
 Set up environment variables: Create a `.env` file in the root directory and add the following:
